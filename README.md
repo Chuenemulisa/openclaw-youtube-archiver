@@ -1,4 +1,4 @@
-# YouTube Archiver
+# OpenClaw YouTube Archiver Skill
 
 An [OpenClaw](https://github.com/openclaw/openclaw) skill that archives YouTube playlists as markdown notes with AI-generated summaries, full transcripts, and auto-assigned tags.
 
